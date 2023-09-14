@@ -1,3 +1,11 @@
+# Ülke Verileri ve Filtreleme Uygulaması
+
+Bu proje, dünya genelindeki ülkelerin verilerini GraphQL API kullanarak çeken ve kullanıcılara bu ülkeleri bölge bazında gruplama ve arama yapma imkanı sunan bir React uygulamasını içerir.
+B uygulamanın ise şu sorunu var bir ülke birden fazla grupta olmaması gerekirken böyle bir sorun yaşadım ve kodun daha fazla karmaşık olmasından korkutugum için projemi burda bıraktım. Eğer yapabilseydim tüm ülkeleri yeni bir değişkene atayıp ordan sadece bir kez dönmelerini sağlayarak projemdeki bu sorunu halledebiliceğimi düşünüyorum.
+![Proje Ekran Görüntüsü](public/assets/proje_1.png)
+
+![Proje Ekran Görüntüsü](public/assets/proje_2.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
